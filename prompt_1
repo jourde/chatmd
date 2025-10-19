@@ -1,7 +1,7 @@
 I need you to create an interactive chatbot in Markdown format on the topic:
 
 **Your task:**
-1. Analyse the example file to understand the chatbot format and syntax: https://github.com/jourde/chatmd/blob/main/example.md
+1. Analyse the example file to understand the chatbot format and syntax: https://github.com/jourde/chatmd/blob/main/syntax_example.md
 2. Structure the content into an engaging, navigable chatbot.
 3. Create the chatbot and save it as a .md file.
 
