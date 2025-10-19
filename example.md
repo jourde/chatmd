@@ -1,0 +1,38 @@
+---
+clavier: true
+gestionGrosMots: true
+rechercheContenu: false
+---
+
+# Chatbot title
+
+Initial message that appears when launching the chatbot.
+At the end of the message, it's recommended to guide the user towards possible choices
+
+1. [How to guide the user?](Guiding the user)
+
+## Guiding the user
+
+You can guide the user by leaving options at the end of the response (and only at the end).
+
+Create an ordered list (a number, then a full stop, then a space) and write a link in each item with the title of the option (which appears in a button to click) and the heading of the option, which must correspond to one of the level 2 headings (you put here what you want: the user doesn't see it, unless they hover over the button with the mouse).
+
+If you want to allow returning to the initial message, leave the link empty.
+
+1. [First choice](option 1)
+2. [Second choice](Option 2)
+3. [Back to initial message]()
+
+## option 1
+- brilliant
+- super
+- absolutely fantastic
+
+Here is the first option.
+This option will appear if you click on the "First choice" button above.
+But we've also added additional triggers (keywords or expressions), and if you type, in the chatbot's text area, these expressions or something that resembles these triggers, then it will redirect to this option.
+The option's title is also considered as the first possible trigger.
+
+## Option 2
+Here is the second option.
+If I had used a lowercase letter in my title, it wouldn't have worked because the link above is to "Option 2" with a capital letter.
