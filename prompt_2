@@ -4,6 +4,7 @@ Audience:
 Targeted level:
 Tone: Informative, accessible, and encouraging exploration
 Requirements:
+- Format the Markdown based on this example: https://github.com/jourde/chatmd/blob/main/syntax_example.md
 - Include YAML frontmatter (clavier: true, gestionGrosMots: true, rechercheContenu: false)
 - Write an engaging start message that introduces the topic and guides users with navigation options. The start message must contain navigation links.
 - Create a series of level 2 sections (##) covering the main themes from the content
