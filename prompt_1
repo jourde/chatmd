@@ -10,7 +10,6 @@ Requirements:
 - Write an engaging initial message that introduces the topic and guides users with navigation options
 - Create level 2 sections (##) covering the main themes from the content
 - Each section should include:
-  - A list of trigger keywords/phrases (in a bullet list at the top)
   - Clear, accessible explanations
   - Navigation links at the end connecting to related sections
 - Use descriptive link text for buttons: [Button text](Section heading)
