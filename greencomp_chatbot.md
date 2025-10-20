@@ -4,114 +4,149 @@ gestionGrosMots: true
 rechercheContenu: false
 ---
 
-# GreenComp: Your Guide to Sustainability Education
+# GreenComp Explorer for Teachers
 
-Welcome! This chatbot will help you discover GreenComp, the European Sustainability Competence Framework. Whether you're completely new to sustainability education or looking to refresh your understanding, you're in the right place.
+Welcome! This chatbot will help you discover **GreenComp**, the European Sustainability Competence Framework—a practical tool for integrating sustainability education into your teaching.
 
-GreenComp provides a common language and structure for teaching sustainability across all subjects and year groups. It identifies 12 key competences organised into four interconnected areas, helping your pupils develop the knowledge, skills, and attitudes they need to think, plan, and act sustainably.
-
-Let's explore together! Choose where you'd like to start:
+**Where would you like to begin?**
 
 1. [What is GreenComp?](What is GreenComp)
-2. [The Four Areas of GreenComp](The Four Areas)
-3. [Bringing GreenComp into Your Classroom](Classroom Practice)
+2. [Understanding the 4 areas](The four areas)
+3. [Exploring the 12 competences](The twelve competences)
+4. [How to use GreenComp in teaching](Using GreenComp)
+5. [See practical examples](Practical examples)
 
 ## What is GreenComp
+- sustainability framework
+- European framework
+- competence framework
 
-GreenComp is the European Sustainability Competence Framework, developed as part of the European Green Deal. Think of it as a roadmap that helps educators like you integrate sustainability into teaching and learning.
+**GreenComp** is the European Sustainability Competence Framework (2022). It identifies key competences pupils need to become sustainability-minded citizens.
 
-**Why does it matter?**
+**Why it matters:** GreenComp provides a clear structure for embedding sustainability across any subject and age group. It's about helping pupils develop critical thinking, empathy, and agency—not adding extra content.
 
-Sustainability isn't just about recycling or climate science—it's about helping pupils understand the interconnected nature of our world and empowering them to make positive changes. GreenComp provides a shared framework that bridges the gap between knowledge and action.
+**Structure:** 4 areas containing 12 competences, with learning outcomes and practical examples.
 
-**Key features:**
+**What would you like to explore next?**
 
-GreenComp identifies 12 sustainability competences grouped into four interrelated areas. It's designed to be flexible and adaptable—not a rigid prescription, but a supportive guide you can use across any subject, age group, or learning context. The framework emphasises that sustainability competences develop together, often overlapping and reinforcing one another.
+1. [The 4 areas of GreenComp](The four areas)
+2. [The 12 competences in detail](The twelve competences)
+3. [How to apply it in teaching](Using GreenComp)
+4. [Back to start]()
 
-**Who is it for?**
+## The four areas
+- areas
+- four areas
+- 4 areas
+- structure
 
-Everyone involved in lifelong learning! Whether you teach primary pupils or work with secondary learners, GreenComp can be woven into your existing curriculum. It builds on other European frameworks you might already know, such as DigComp (digital competence) and EntreComp (entrepreneurship).
+GreenComp organises sustainability competences into **4 interconnected areas**:
 
-The beauty of GreenComp is that it doesn't require you to become a sustainability expert overnight. Instead, it offers a common language and structure to gradually embed sustainability thinking into what you're already teaching.
+**1. Embodying sustainability values** - Understanding personal values, promoting fairness and sustainability principles.
 
-Where would you like to go next?
+**2. Embracing complexity in sustainability** - Recognising systems thinking, dealing with uncertainty and interconnections.
 
-1. [Explore the Four Areas of GreenComp](The Four Areas)
-2. [Discover practical classroom applications](Classroom Practice)
-3. [Back to start]()
+**3. Envisioning sustainable futures** - Imagining alternatives, thinking critically about different pathways.
 
-## The Four Areas
+**4. Acting for sustainability** - Taking individual and collective action, working for change.
 
-- embodying values
-- thinking critically
-- imagining futures
-- taking action
+Each area contains 3 competences (12 total).
 
-GreenComp organises its 12 competences into four interconnected areas. These aren't separate boxes to tick—they work together, creating a holistic approach to sustainability education. Let's explore each area:
+**Where next?**
 
-**1. Embodying sustainability values**
+1. [Explore the 12 competences](The twelve competences)
+2. [How do I use these areas?](Using GreenComp)
+3. [Show me examples](Practical examples)
+4. [Back to start]()
 
-This area focuses on helping pupils reflect on their personal values and understand how values shape our relationship with the planet. It includes three competences: valuing sustainability, supporting fairness, and promoting nature. Pupils learn to appreciate diverse perspectives and develop empathy for people, other species, and future generations.
+## The twelve competences
+- competences
+- 12 competences
+- twelve competences
+- skills
 
-**2. Embracing complexity in sustainability**
+**The 12 competences across 4 areas:**
 
-Sustainability challenges are rarely simple! This area develops pupils' ability to understand interconnected systems and think critically. It includes systems thinking, critical thinking, and problem framing. Pupils learn to see how environmental, social, and economic issues are linked, question assumptions, and identify the real problems beneath surface symptoms.
+**Embodying sustainability values:**
+1. Valuing sustainability
+2. Supporting fairness
+3. Promoting nature
 
-**3. Envisioning sustainable futures**
+**Embracing complexity:**
+4. Systems thinking
+5. Critical thinking
+6. Problem framing
 
-What kind of future do we want? This area encourages imagination and forward thinking through futures literacy, adaptability, and exploratory thinking. Pupils develop the ability to envision alternative scenarios, manage uncertainty, and experiment creatively with new ideas—essential skills for addressing complex sustainability challenges.
+**Envisioning sustainable futures:**
+7. Futures literacy
+8. Adaptability
+9. Exploratory thinking
 
-**4. Acting for sustainability**
+**Acting for sustainability:**
+10. Political agency
+11. Collective action
+12. Individual initiative
 
-Knowledge without action isn't enough. This final area empowers pupils to become active citizens through political agency, collective action, and individual initiative. Pupils learn to navigate systems, collaborate with others, and take personal responsibility for creating positive change in their communities and beyond.
+Each competence includes learning outcomes at foundational, intermediate, and advanced levels.
 
-**The interconnected nature**
+**What's next?**
 
-Remember, these four areas constantly interact. For example, understanding systems (Area 2) helps pupils take more effective action (Area 4), while embodying values (Area 1) shapes how they envision the future (Area 3). This holistic approach reflects the interconnected nature of sustainability itself.
+1. [How do I teach these?](Using GreenComp)
+2. [Show me classroom examples](Practical examples)
+3. [Understand the 4 areas better](The four areas)
+4. [Back to start]()
 
-What would you like to explore next?
+## Using GreenComp
+- use
+- apply
+- implement
+- teaching
+- classroom
 
-1. [Learn about bringing GreenComp into practice](Classroom Practice)
-2. [Return to What is GreenComp](What is GreenComp)
-3. [Back to start]()
+**How to use GreenComp in your teaching:**
 
-## Classroom Practice
+**1. Start small** - Choose one or two competences that fit your current teaching.
 
-- integrate across subjects
-- use real-world projects
-- encourage pupil agency
-- collaborate with others
+**2. Use learning outcomes** - Each competence has outcomes at three levels to guide lesson objectives.
 
-Ready to bring GreenComp into your teaching? The good news is you don't need to overhaul your entire curriculum. GreenComp is designed to enhance what you're already doing. Here are some practical approaches:
+**3. Integrate across subjects** - History, maths, art, and PE can all develop GreenComp competences.
 
-**Start where you are**
+**4. Focus on progression** - Move pupils from foundational (understanding) to intermediate (applying) to advanced (initiating change).
 
-Look at your existing lessons and identify natural connections to sustainability. Teaching about water in science? Connect it to water conservation and global water access (supporting fairness). Studying local history? Explore how communities have adapted to environmental changes over time (adaptability). The framework fits around your curriculum, not the other way around.
+**5. Encourage pupil agency** - Give pupils opportunities to make decisions and take initiative.
 
-**Use interdisciplinary approaches**
+You don't need to teach all 12 at once. Build gradually.
 
-Sustainability is inherently cross-curricular. Consider collaborating with colleagues to design projects that span multiple subjects. A project on school food, for example, could involve science (nutrition, food production), geography (food miles, climate impact), maths (calculating carbon footprints), and citizenship (fair trade, food justice).
+**Ready for examples?**
 
-**Embrace active and pupil-centred learning**
+1. [See practical examples](Practical examples)
+2. [Review the competences](The twelve competences)
+3. [Understand the framework structure](The four areas)
+4. [Back to start]()
 
-GreenComp competences develop best through doing, not just listening. Project-based learning, real-world problem-solving, and community partnerships help pupils move from knowledge to action. Give pupils agency: let them identify problems in their school or community, research solutions, and implement changes. This builds critical thinking, collective action, and individual initiative simultaneously.
+## Practical examples
+- examples
+- activities
+- lessons
+- practice
 
-**Think small to start**
+**Quick classroom examples:**
 
-You don't need to tackle everything at once. Start with one or two competences that align with your current teaching. Perhaps begin with systems thinking by using concept maps to show connections, or explore futures literacy through "what if" scenarios. As you grow more confident, you'll naturally integrate more competences.
+**Systems thinking** - Pupils map a smartphone's journey from raw materials to disposal, exploring environmental and social impacts.
 
-**Connect to pupils' lives and interests**
+**Futures literacy** - Pupils create visual representations of their school in 2050, imagining sustainable scenarios.
 
-Make sustainability relevant by linking it to what matters to your pupils. Urban biodiversity, fast fashion, social media's environmental impact, local community projects—find entry points that spark curiosity and demonstrate that sustainability isn't abstract or distant.
+**Collective action** - Pupils identify a school sustainability issue and work in teams to propose solutions.
 
-**Foster reflection**
+**Supporting fairness** - Pupils compare carbon emissions and climate impacts across countries, debating ethical responsibilities.
 
-Build in time for pupils to reflect on their learning, values, and actions. Reflection helps them recognise their developing competences and see themselves as agents of change. Simple reflection prompts can make a big difference.
+**Critical thinking** - Pupils analyse 'green' product advertisements, identifying greenwashing.
 
-Remember, you're not expected to be perfect. GreenComp is a journey, and every small step you take helps prepare pupils for a sustainable future.
+**Tip:** Connect to pupils' lived experiences and make learning visible by naming the competence being developed.
 
-Where would you like to go next?
+**Where to next?**
 
-1. [Revisit the Four Areas of GreenComp](The Four Areas)
-2. [Learn more about What is GreenComp](What is GreenComp)
-3. [Back to start]()
+1. [How to start using GreenComp](Using GreenComp)
+2. [Review the 12 competences](The twelve competences)
+3. [Understand the framework](What is GreenComp)
+4. [Back to start]()
