@@ -1,17 +1,12 @@
-Create an interactive chatbot in Markdown format.
+Create an interactive chatbot in Markdown format, ensuring a logical flow between sections so users can explore topics in different orders.
 Topic:
 Audience:
 Targeted level:
 Tone: Informative, accessible, and encouraging exploration
-
-2. 
-3. Create the chatbot and save it as a .md file.
-
-**Requirements:**
+Requirements:
 - Include YAML frontmatter (clavier: true, gestionGrosMots: true, rechercheContenu: false)
-- Write an engaging initial message that introduces the topic and guides users with navigation options
-- Create level sections (##) covering the main themes from the content
+- Write an engaging start message that introduces the topic and guides users with navigation options
+- Create a series of level 2 sections (##) covering the main themes from the content
 - Each section should include:
   - Concise, clear and accessible content.
-  - Navigation links at the end connecting to related sections. Use descriptive link text for buttons: [Button text](Section heading). Always include an option to return to the start where appropriate: [Back to start]()
-- Ensure logical flow between sections so users can explore topics in different orders
+  - Navigation links at the end connecting to related sections: use descriptive link text for buttons: [Button text](Section heading); always include a final option to return to the start where appropriate: [Back to start]()
