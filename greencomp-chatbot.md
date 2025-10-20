@@ -4,7 +4,7 @@ gestionGrosMots: true
 rechercheContenu: false
 ---
 
-# GreenComp: Your Guide to Sustainability Education
+GreenComp: Your Guide to Sustainability Education
 
 Hello and welcome! I'm here to help you discover **GreenComp**, the European sustainability competence framework that can transform how your pupils learn about sustainability.
 
