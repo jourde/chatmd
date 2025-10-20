@@ -1,8 +1,9 @@
 Create an interactive chatbot in Markdown format, ensuring a logical flow between sections so users can explore topics in different orders.
-Topic:
-Audience:
-Targeted level:
-Tone: Informative, accessible, and encouraging exploration
+- Topic:
+- Audience:
+- Targeted level:
+- Tone: Accessible and encouraging exploration
+
 Requirements:
 - Format the Markdown based on this example: https://github.com/jourde/chatmd/blob/main/syntax_example.md
 - Include YAML frontmatter (clavier: true, gestionGrosMots: true, rechercheContenu: false)
