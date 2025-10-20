@@ -1,11 +1,11 @@
 I need you to create an interactive chatbot in Markdown format on the topic:
 
-**Your task:**
+Your task:
 1. Analyse the example file to understand the chatbot format and syntax: https://github.com/jourde/chatmd/blob/main/syntax_example.md
 2. Structure the content into an engaging, navigable chatbot.
 3. Create the chatbot and save it as a .md file.
 
-**Requirements:**
+Requirements:
 - Include YAML frontmatter (clavier: true, gestionGrosMots: true, rechercheContenu: false)
 - Write an engaging initial message that introduces the topic and guides users with navigation options
 - Create level 2 sections (##) covering the main themes from the content
@@ -17,4 +17,4 @@ I need you to create an interactive chatbot in Markdown format on the topic:
 - Include an option to return to the start where appropriate: [Back to start]()
 - Ensure logical flow between sections so users can explore topics in different orders
 
-**Tone:** Informative, accessible, and encouraging exploration
+Tone: Informative, accessible, and encouraging exploration
