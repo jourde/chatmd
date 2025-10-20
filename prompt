@@ -5,15 +5,11 @@ Create an interactive chatbot in Markdown format, ensuring a logical flow betwee
 - Tone: Accessible and encouraging exploration
 
 Requirements:
-- Format the Markdown based on this example: https://github.com/jourde/chatmd/blob/main/syntax_example.md
-- Include YAML frontmatter (clavier: true, gestionGrosMots: true, rechercheContenu: false)
-- Write an engaging start message that introduces the topic and guides users with navigation options. The start message must contain navigation links.
-- Create a series of level 2 sections (##) covering the main themes from the content
-- Each section should include:
-  - Concise, clear and accessible content.
-  - Navigation links at the end connecting to related sections: use descriptive link text for buttons: [Button text](Section heading); always include a final option to return to the start where appropriate: [Back to start]()
-
-Use this model for the syntax of the file:
+Requirements:
+- First, write an engaging start message that introduces the topic and guides users with navigation options. The start message must contain navigation links.
+- Then, create a series of level 2 sections (##) covering the main themes from the content.
+- Each section should include: 1) Concise content; 2) Navigation links at the end connecting to related sections: use descriptive link text for buttons: [Button text](Section heading) and always include a final option to return to the start where appropriate: [Back to start]()
+- Use this model for the syntax of the file:
 "---
 clavier: true
 gestionGrosMots: true
